@@ -1,0 +1,213 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: "Poppins", sans-serif;
+}
+
+.bgcolor {
+    background-color: darkred;
+}
+
+.a {
+    border: 1px solid orange;
+    border-radius: 5px;
+    height: 35px;
+    width: 150px;
+}
+
+.mainlogo {
+    height: 110px;
+    object-fit: contain;
+}
+
+.mainlogo1 {
+    height: 100px;
+}
+
+.mainlogo2 {
+    height: 80px;
+}
+
+.heading {
+    color: black;
+}
+
+.hindifont {
+    font-family: "Kalam", cursive;
+    margin-top: -10px;
+    font-size: 22px;
+    font-weight: 800;
+    margin-bottom: -2px;
+}
+
+.b hr {
+    width: 77%;
+    margin-top: -2px;
+}
+
+.navbar {
+    background-color: darkred;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.carousel-inner {
+    height: 535px;
+}
+
+.animescroll {
+    padding-top: 15px;
+}
+
+.content p {
+    font-size: 16px;
+    text-align: justify;
+    line-height: 36px;
+}
+
+.content {
+    background-color: #e9ecef;
+}
+
+.maincontentimg {
+    border-radius: 20px;
+    height: 215px;
+}
+
+.governmentimg img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border: 4px solid darkred;
+    border-radius: 100%;
+}
+
+.govimg {
+    align-items: center;
+    padding: 30px;
+    height: 300px;
+    width: 300px;
+
+}
+
+.governmentimg h5 {
+    font-size: 18px;
+}
+
+.governmentimg p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.directorsir h6 {
+    font-size: 18px;
+}
+
+.directorsir p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 36px;
+}
+
+.Director img {
+    height: 400px;
+    width: 95%;
+}
+
+.Features img {
+    height: 200px;
+    margin-bottom: -20px;
+}
+
+button {
+    border-radius: 20px;
+    background-color: darkred;
+    color: white;
+}
+
+.cardhover:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px black;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+.about img {
+    border-radius: 20px;
+}
+
+.about p {
+    font-size: 16px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.aboutus {
+    border-radius: 20px;
+}
+
+
+.Affiliation {
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.contact-form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+  
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.form-group textarea {
+    height: 120px;
+}
+
+.form-group button {
+    background-color: darkred;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.form-group button:hover {
+    background-color: #45a049;
+}
+.ae{
+    background-image: url('https://recgonda.ac.in/Content/img/collegeimg.jpg' ) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
